@@ -1,7 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER
-# Name: Pranav S
-# Reg no: 212224230024
+# Name: PRANAV S
+# Reg no: 212224040242
 # Date : 10.09.26
 # Aim :
 To write a program to implement the back end of the compiler.
